@@ -1,0 +1,9 @@
+Adafruit_Python_PN532/
+go/
+libnfc/
+nanpy-0.9.6/
+nanpy-firmware-0.9.6/
+node_modules/
+lib/
+*.class
+bin/

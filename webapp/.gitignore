@@ -1,0 +1,7 @@
+.DS_Store
+settings-development.json
+settings-production.json
+npm-debug.log
+
+node_modules
+imports/startup/server/vars.js
